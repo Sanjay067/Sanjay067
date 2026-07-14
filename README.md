@@ -41,7 +41,7 @@ Building scalable backend systems, secure REST APIs, and modern web applications
 
 ---
 
-## 🚀 Featured Projects
+## Featured 
 
 ### 🔹 DevConnect
 A developer-centric platform where developers can showcase projects, connect with peers, and collaborate.
@@ -59,28 +59,11 @@ A developer-centric platform where developers can showcase projects, connect wit
 
 Node.js • Express.js • MongoDB • Next.js • React • Redux Toolkit • Tailwind CSS • Cloudinary
 
-> 🔗 **Live Demo:** *Add Link Here*  
-> 💻 **Repository:** *Add Link Here*
+> 🔗 **Live Demo:**https://dev-connect-eight-ruby.vercel.app/**  
+> 💻 **Repository:**https://github.com/Sanjay067/Sanjay067/devConnect**
 
 ---
 
-### 🔹 GOdrive
-
-A vehicle booking platform supporting Users, Vendors, and Administrators with a scalable backend architecture.
-
-**Highlights**
-- Multi-role Authentication
-- Vehicle Booking APIs
-- Vendor Management
-- Database Schema Design
-- Document Upload Workflow
-- RESTful API Development
-
-**Tech Stack**
-
-Node.js • Express.js • MongoDB • Firebase
-
----
 
 ## 💻 Currently Exploring
 
