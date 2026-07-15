@@ -60,7 +60,7 @@ A developer-centric platform where developers can showcase projects, connect wit
 Node.js • Express.js • MongoDB • Next.js • React • Redux Toolkit • Tailwind CSS • Cloudinary
 
 > 🔗 **Live Demo:**https://dev-connect-eight-ruby.vercel.app/**  
-> 💻 **Repository:**https://github.com/Sanjay067/Sanjay067/devConnect**
+> 💻 **Repository:**https://github.com/Sanjay067/devConnect**
 
 ---
 
