@@ -77,10 +77,6 @@ A developer-focused social platform for sharing projects, discussing implementat
 ## Connect
 
 <p>
-<a href="https://github.com/Sanjay067">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-&nbsp;
 <a href="https://linkedin.com/in/sanjay-kumar-0a8925273/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
