@@ -1,45 +1,35 @@
-<h1 align="center">Hi, I'm Sanjay Kumar</h1>
+# Hi, I'm Sanjay Kumar
 
-<p align="center">
-  <b>Open to Collaborate</b>
-</p>
+**Open to Collaboration**
 
-<p align="center">
-  Freelancer · Backend / Full-Stack Developer · Computer Science Engineering Student
-</p>
+Freelancer · Backend / Full-Stack Developer · Final-Year CSE Student
 
-<p align="center">
-  Building backend systems, REST APIs, and full-stack applications with a focus on security, performance, and clean architecture.
-</p>
+Building secure backend systems,full-stack applications with a focus on clean architecture, performance, and scalability.
 
 ---
 
-## About
+## About Me
 
-* Final Year B.E. Computer Science & Engineering
-* Backend & Full-Stack Development
-* Interested in System Design, APIs & Distributed Systems
-* Focused on Authentication, Security & Scalable Backend Architecture
-* Currently exploring Redis, Docker & Cloud
+- Final-year B.E. in Computer Science and Engineering
+- Language agnostic 
+- Focused on backend and full-stack development
+- Adaptable engineer who learns new technologies and applies them to solve problems
+- Open to collaboration, freelance opportunities, and connecting with developers
 
 ---
 
-## Stack
+## Tech Stack
 
-**Languages**
-
+**Languages**  
 JavaScript · Python · Java · SQL
 
-**Backend**
-
+**Backend & Databases**  
 Node.js · Express.js · MongoDB · Firebase · REST APIs · Socket.io
 
-**Frontend**
-
+**Frontend**  
 React · Next.js · Redux Toolkit · Tailwind CSS
 
-**Tools**
-
+**Tools & Platforms**  
 Git · GitHub · Postman · Docker · Cloudinary
 
 ---
@@ -48,44 +38,18 @@ Git · GitHub · Postman · Docker · Cloudinary
 
 ### dev.connect
 
-A developer-focused social platform for sharing projects, discussing implementations, and connecting with other developers.
+A developer-focused social platform for sharing projects, discussing implementations, and connecting with fellow developers.
 
-**Stack**
+- **Live Demo:** https://dev-connect-eight-ruby.vercel.app/
+- **Repository:** https://github.com/Sanjay067/devConnect
 
-`Next.js` · `React` · `Node.js` · `Express` · `MongoDB` · `Socket.io`
-
-**Engineering Highlights**
-
-* JWT authentication with refresh-token rotation
-* CSRF protection & role-based authorization
-* Personalized feed ranking with MongoDB aggregation
-* Real-time private messaging with Socket.io
-* MongoDB transactions & compound indexes
-* Cloudinary-based media management
-
-🔗 **[Live Demo](https://dev-connect-eight-ruby.vercel.app/)**
-💻 **[Repository](https://github.com/Sanjay067/devConnect)**
+**Tech Stack:**  
+Next.js · React · Node.js · Express.js · MongoDB · Socket.io
 
 ---
 
-## Currently Learning
+## Let's Connect
 
-`System Design` · `Redis` · `Docker` · `Cloud` · `Event-Driven Architecture` · `Backend Performance`
-
----
-
-## Connect
-
-<p>
-<a href="https://linkedin.com/in/sanjay-kumar-0a8925273/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-&nbsp;
-<a href="mailto:sanjaykumar30701@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Sanjay076/">
-<img src="https://cdn.simpleicons.org/leetcode" width="45"/>
-</a>
-</p>
+- **LinkedIn:** https://linkedin.com/in/sanjay-kumar-0a8925273/
+- **Email:** sanjaykumar30701@gmail.com
+- **LeetCode:** https://leetcode.com/u/Sanjay076/
