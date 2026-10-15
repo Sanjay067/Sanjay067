@@ -10,7 +10,7 @@ Building secure backend systems,full-stack applications with a focus on clean ar
 
 ## About Me
 
-- Final-year B.E. in Computer Science and Engineering
+- Final-year Engineering Student
 - Language agnostic 
 - Focused on backend and full-stack development
 - Adaptable engineer who learns new technologies and applies them to solve problems
